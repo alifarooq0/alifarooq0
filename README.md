@@ -78,5 +78,5 @@ the real engineering in LLM products isn't the prompt -- it's the reliability ar
 
 open to senior / staff full-stack and AI engineering roles -- remote, contract or full-time.
 
-- **Email** &nbsp;·&nbsp; [ali.farooq@gmail.com](mailto:ali.farooq@gmail.com)
-- **LinkedIn** &nbsp;·&nbsp; [linkedin.com/in/alifarooq0](https://linkedin.com/in/alifarooq0)
+- **[Email](mailto:ali.farooq@gmail.com)**
+- **[LinkedIn](https://linkedin.com/in/alifarooq0)**
