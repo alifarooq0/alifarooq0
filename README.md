@@ -1,6 +1,6 @@
 # Ali Farooq
 
-**Senior Full-Stack Engineer** &nbsp;·&nbsp; Blockchain Infrastructure &nbsp;·&nbsp; Developer Platforms &nbsp;·&nbsp; AI Tooling
+**Senior Backend Engineer** &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Blockchain Infrastructure &nbsp;·&nbsp; Developer Platforms
 
 ~16 years shipping production systems. repeatedly the founding / early engineer who sets technical direction, builds the standards and infrastructure other engineers build on, and takes products from zero to one.
 
@@ -22,13 +22,19 @@ public code from that work:
 - **[zkr-go-common-public](https://github.com/zircuit-labs/zkr-go-common-public)** -- shared Go libraries underpinning the Zircuit services
 
 ### Macro — Founding Engineer
-took Macro from early engineering to launch -- set up the dev practices (PRs, storybook, design system, devops), built public SDKs, and stood up the prototyping infra that shipped multiple products inside a year.
+took Macro from early engineering to launch -- set up the backend and devops practices, built public SDKs and API surfaces, and stood up the prototyping infra that shipped multiple products inside a year.
 
 - **[launch on Product Hunt](https://www.producthunt.com/products/macro-3)**
 
 ---
 
-## Selected Open-Source Contributions
+## Open Source
+
+### Maintained
+
+- **[xerrors-ts](https://github.com/alifarooq0/xerrors-ts)** (`ts-xerrorof`) -- tagged domain errors for TypeScript. define a factory per domain, narrow with `isErrorOf`, wrap causes, remap across layers, and use the same shape whether you return a Result or throw
+
+### Contributions
 
 - **Mattermost / playbooks** -- authored the OpenAPI spec for the workflows REST API, which became the documentation template other teams followed &nbsp;[![PR](https://img.shields.io/badge/PR-%23177-2EA44F?style=flat-square&logo=github&logoColor=white)](https://github.com/mattermost/mattermost-plugin-playbooks/pull/177)
 - **Mattermost / playbooks** -- designed and built the official workflows Go client (SDK), with an API modeled on the Stripe and GitHub client conventions to stay intuitive and hard to misuse &nbsp;[![PR](https://img.shields.io/badge/PR-%23169-2EA44F?style=flat-square&logo=github&logoColor=white)](https://github.com/mattermost/mattermost-plugin-playbooks/pull/169)
@@ -38,7 +44,7 @@ took Macro from early engineering to launch -- set up the dev practices (PRs, st
 
 ## Currently Focused On
 
-the real engineering in LLM products isn't the prompt -- it's the reliability around it. structured-output schemas, validation and re-prompting loops, and eval sets that catch regressions before they ship. building agentic systems with the Claude API, MCP, and orchestration patterns.
+reliability at the edges of distributed and agentic systems -- typed error boundaries across service layers, structured-output schemas with validation and re-prompting loops, and eval sets that catch regressions before they ship. building backend agentic systems with the Claude API, MCP, and orchestration patterns.
 
 ---
 
@@ -46,17 +52,18 @@ the real engineering in LLM products isn't the prompt -- it's the reliability ar
 
 **Languages & Frameworks**
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Data & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -76,7 +83,7 @@ the real engineering in LLM products isn't the prompt -- it's the reliability ar
 
 ## Let's Talk
 
-open to senior / staff full-stack and AI engineering roles -- remote, contract or full-time.
+open to senior / staff backend and infrastructure roles -- remote, contract or full-time.
 
 - **[Email](mailto:ali.farooq@gmail.com)**
 - **[LinkedIn](https://linkedin.com/in/alifarooq0)**
