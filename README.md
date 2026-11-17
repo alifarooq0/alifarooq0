@@ -12,6 +12,11 @@
 
 ## Featured Work
 
+### Screenshot-to-CRM Pipeline — Independent Consulting · 2026
+I built this for a client whose team spent whole days retyping information from screenshots into their CRM. The pipeline uses AI to identify the document type and pull the relevant fields into a draft. The team can check and edit the draft alongside the original screenshot before approving it for the CRM. That brought the work down to a few hours.
+
+[Read the full case study](https://alifarooq.io/work/screenshot-to-crm)
+
 ### Zircuit — Founding Engineer · 2024–2026
 EVM-compatible ZK-rollup L2 with AI-powered, sequencer-level security. i was one of the first few engineers, building the protocol alongside the team from inception to mainnet. my work centered on the org's engineering foundations -- co-architecting the open-source CI/CD across Zircuit's repos, establishing the release-management and incident-response processes the team ran on, and introducing CodeRabbit as the org's AI code-review standard. the protocol is built on Optimism Bedrock.
 
